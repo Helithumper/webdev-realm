@@ -1,0 +1,29 @@
+body{
+    background:pink;
+    font-family: comic sans ms;
+    
+}
+
+h1,h2,li{
+    color: blue;
+}
+
+a{
+    color: green;
+}
+
+p{
+    background: #666;
+    color: white;
+    padding: 10px;
+}
+
+.secondary{
+    background: purple;
+    color: green;
+    padding: 15px;
+}
+
+#special{
+    color:purple;
+}
